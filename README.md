@@ -1,3 +1,4 @@
+Akashpod
 # Wedding Template
 A config based wedding template to get your e-wedding invitation up and running within few minutes.
 
